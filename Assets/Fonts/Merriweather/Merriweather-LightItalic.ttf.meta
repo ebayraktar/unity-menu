@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 998e670f757ba6745a511853d71f87da
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Merriweather Light
+  fontNames:
+  - Merriweather Light
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 951479ba6654ecd40924f0967eecb873, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

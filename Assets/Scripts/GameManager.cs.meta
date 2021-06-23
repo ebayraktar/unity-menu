@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0fce4530a0d8a934f9b80b2f874d007b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioMixer: {instanceID: 0}
+  - score: {instanceID: 0}
+  - lastScore: {instanceID: 0}
+  - panel: {instanceID: 0}
+  - pm: {instanceID: 0}
+  - info: {instanceID: 0}
+  - info1: {fileID: 2800000, guid: 133ce76340782194b883a3b62349931f, type: 3}
+  - info2: {instanceID: 0}
+  - mute: {instanceID: 0}
+  - mute1: {instanceID: 0}
+  - mute2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
